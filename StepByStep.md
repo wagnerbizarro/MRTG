@@ -92,9 +92,9 @@ RunAsDaemon: Yes
 Scroll down and find   
 ```  
 
-“ # for Debian  
+for Debian  
 WorkDir: /var/www/mrtg  
-”  
+ 
 
 And edit it to  
 
